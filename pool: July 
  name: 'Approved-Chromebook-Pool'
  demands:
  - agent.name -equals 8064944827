@@ -1,0 +1,4 @@
+pool:
+  name: 'Approved-Chromebook-Pool'
+  demands:
+  - agent.name -equals 8064944827agent.name8064944827Calendars.Read
